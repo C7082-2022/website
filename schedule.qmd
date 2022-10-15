@@ -1,0 +1,51 @@
+---
+title: "Schedule"
+---
+
+## Calendar of resources
+
+The material in this module is designed to be experienced in an intensive one week format followed by an assessment meant to showcase reproducible statistical analysis skills. For enrolled students, the work will be supported with several live sessions during the main week of delivery.
+
+<br>
+
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| Day       | Topics                                                                                                                                                                                                      | Labs                        |
++===========+=============================================================================================================================================================================================================+=============================+
+| Mon       | ![](img/pptx.png){width="25" height="23"} [01 Introduction](lectures/01_intro.pptx) [![](img/vid.png){width="25" height="21"}](http://operorgenetic.com/wp/wp-content/uploads/2020/11/c7082-lec-01.mp4) 1.1 |                             |
+|           |                                                                                                                                                                                                             |                             |
+| am        | ![](img/pptx.png){width="25" height="23"} [02 Linear algebra](lectures/02_linear_algebra.pptx) ![](img/vid.png){width="25" height="21"}                                                                     |                             |
+|           |                                                                                                                                                                                                             |                             |
+| pm        | ![](img/pptx.png){width="25" height="23"} [03 Probability](lectures/03_prob.pptx) ![](img/vid.png){width="25" height="21"}                                                                                  |                             |
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| Tues      | ![](img/pptx.png){width="25" height="23"} [04 Numerical computation](lectures/04_numerical.pptx) ![](img/vid.png){width="25" height="21"}                                                                   | Lab 04 Contingency analysis |
+|           |                                                                                                                                                                                                             |                             |
+| am        | ![](img/pptx.png){width="25" height="23"} [05 Machine learning](lectures/05_ml.pptx) ![](img/vid.png){width="25" height="21"}                                                                               | Lab 05 The Gaussian dist    |
+|           |                                                                                                                                                                                                             |                             |
+| pm        | ![](img/pptx.png){width="25" height="23"} [06 Deep networks](lectures/06_mlp.pptx) ![](img/vid.png){width="25" height="21"}                                                                                 | Lab 06 2 group tests        |
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| Wed       | ![](img/pptx.png){width="25" height="23"} [07 Regularization](lectures/07_regularization.pptx) ![](img/vid.png){width="25" height="21"}                                                                     | Lab 07 ANOVA                |
+|           |                                                                                                                                                                                                             |                             |
+| am        | ![](img/pptx.png){width="25" height="23"} [08 Stochastic gradient descent](lectures/08.1_sgd_and_cost_structure.pptx) ![](img/vid.png){width="25" height="21"}                                              | Lab 08 Cor and reg          |
+|           |                                                                                                                                                                                                             |                             |
+| pm        |                                                                                                                                                                                                             | Lab 09 Graphing II          |
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| Thurs     | ![](img/pptx.png){width="25" height="23"} [09 Convolutional networks](lectures/09_conv.pptx) ![](img/vid.png){width="25" height="21"}                                                                       | Lab 10 Sample size          |
+|           |                                                                                                                                                                                                             |                             |
+| am        | ![](img/pptx.png){width="25" height="23"} [10 Recurrent networks](lectures/10_rnn.pptx) ![](img/vid.png){width="25" height="21"}                                                                            | Lab 11 Linear models        |
+|           |                                                                                                                                                                                                             |                             |
+| pm        |                                                                                                                                                                                                             | Lab 12 Mixed effects        |
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+| Fri       | ![](img/pptx.png){width="25" height="23"} [11 Practical methods](lectures/11_practical.pptx) ![](img/vid.png){width="25" height="21"}                                                                       | Lab 13 Likelihood           |
+|           |                                                                                                                                                                                                             |                             |
+| am        | ![](img/pptx.png){width="25" height="23"} [12 Application](lectures/12_applications.pptx) ![](img/vid.png){width="25" height="21"}                                                                          | Lab 14 GLM                  |
+|           |                                                                                                                                                                                                             |                             |
+| pm        |                                                                                                                                                                                                             | Lab 15 Model selection      |
++-----------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-----------------------------+
+
+<br><br>
+
+## Harper Adams Data Science
+
+![](img/HDS.png){fig-alt="Harper Data Science" width="125"}
+
+This module is a part of the [MSc in Data Science for Global Agriculture, Food, and Environment](https://www.harper-adams.ac.uk/courses/postgraduate/201194/data-science-for-global-agriculture-food-and-environment "MSc in Data Science") at [Harper Adams University](https://www.harper-adams.ac.uk/ "Harper Adams University"), led by [Ed Harris](https://www.harper-adams.ac.uk/general/staff/profile/201620/Edwin-Harris/ "Ed's Faculty page").

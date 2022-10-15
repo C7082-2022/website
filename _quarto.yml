@@ -12,6 +12,7 @@ website:
       - section: "Information"
         contents:
           - index.qmd
+          - schedule.qmd
 format:
   html:
     highlight-style: a11y

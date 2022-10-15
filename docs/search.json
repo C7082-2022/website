@@ -1,16 +1,44 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "website",
-    "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "mysite",
     "section": "",
     "text": "Hello world"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Welcome to C7082. This module is a survey of methods in computational AI including aspects of neural networks and computer vision using Keras, Tensorflow and related systems. There is an emphasis on practical applications using a series of data examples and lab exercises, along with lectures on selected topics and readings. Prerequisites are familiarity with a statistical programming language (like Python or R) and familiarity with material in the R Stats Bootcamp."
+  },
+  {
+    "objectID": "index.html#c7082-resources",
+    "href": "index.html#c7082-resources",
+    "title": "Home",
+    "section": "C7082 Resources",
+    "text": "C7082 Resources\n\nLab Textbook: Chollet 2022 Deep Learning with Python 2ed\nLecture Textbook: Goodfellow et al. 2017\nThe official Python Tutorial\nPython for Everybody with (the legend) Dr. Chuck"
+  },
+  {
+    "objectID": "index.html#harper-adams-data-science",
+    "href": "index.html#harper-adams-data-science",
+    "title": "Home",
+    "section": "Harper Adams Data Science",
+    "text": "Harper Adams Data Science\n\nThis module is a part of the MSc in Data Science for Global Agriculture, Food, and Environment at Harper Adams University, led by Ed Harris."
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "The material in this module is designed to be experienced in an intensive one week format followed by an assessment meant to showcase reproducible statistical analysis skills. For enrolled students, the work will be supported with several live sessions during the main week of delivery.\n\n\n\n\nDay\nTopics\nLabs\n\n\n\n\nMon\nam\npm\n 01 Introduction  1.1\n 02 Linear algebra \n 03 Probability \n\n\n\nTues\nam\npm\n 04 Numerical computation \n 05 Machine learning \n 06 Deep networks \nLab 04 Contingency analysis\nLab 05 The Gaussian dist\nLab 06 2 group tests\n\n\nWed\nam\npm\n 07 Regularization \n 08 Stochastic gradient descent \nLab 07 ANOVA\nLab 08 Cor and reg\nLab 09 Graphing II\n\n\nThurs\nam\npm\n 09 Convolutional networks \n 10 Recurrent networks \nLab 10 Sample size\nLab 11 Linear models\nLab 12 Mixed effects\n\n\nFri\nam\npm\n 11 Practical methods \n 12 Application \nLab 13 Likelihood\nLab 14 GLM\nLab 15 Model selection"
+  },
+  {
+    "objectID": "schedule.html#harper-adams-data-science",
+    "href": "schedule.html#harper-adams-data-science",
+    "title": "Schedule",
+    "section": "Harper Adams Data Science",
+    "text": "Harper Adams Data Science\n\nThis module is a part of the MSc in Data Science for Global Agriculture, Food, and Environment at Harper Adams University, led by Ed Harris."
   }
 ]
