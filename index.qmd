@@ -20,14 +20,9 @@ title: "Home"
 
 ## C7082 Resources
 
--   **Lab Textbook**: [Chollet 2022 Deep Learning with Python 2ed](https://livebook.manning.com/book/deep-learning-with-python-second-edition/)
+-   [Chollet 2022 Deep Learning with Python 2ed](https://livebook.manning.com/book/deep-learning-with-python-second-edition/)
 
--   **Lecture Textbook**: [Goodfellow et al. 2017](https://www.deeplearningbook.org/)
-
--   [The official Python Tutorial](https://docs.python.org/3/tutorial/)
-
--   [Python for Everybody with (the legend) Dr. Chuck](https://www.freecodecamp.org/learn/scientific-computing-with-python/python-for-everybody/)
-
+-   [Goodfellow et al. 2017](https://www.deeplearningbook.org/)
 
 
 <br><br>
