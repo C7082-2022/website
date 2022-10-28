@@ -56,20 +56,6 @@
     "text": "2 Anaconda and Google Colab\nWe will discuss and use two different alternatives to managing our python installation and our Python libraries. Here we will briefly mention each.\n\n\n2.1 Anaconda\nAnaconda is software designed to manage different environments for Python (and other software), libraries and editors. It is popular because it is easy to use and is free and open source. Part of the Anaconda ecosystem is the Python repository conda.\nYou may wish to watch the following video:\nAnaconda explanation on Youtube\n\nOtherwise you can download and install Anaconda:\nAnaconda distribution\n\nOnce installed you can create a new environment:\n\nA. Click the Environments tab\nB. Click Create +\nC. Name your new environment something sensible\nD. I recommend starting with Python 3.7 (the same version as Google Colab as of 2022-10-15)\n\nOnce you have created an environment, you can install Jupyter Lab:\n\nA. Click the Home tab\nB. Ensure your new environment is selected\nC. Find the Jupyter Lab panel\nD. Hit the install button\n\n\n\n2.2 Google Colab\nUsing colab requires a Google account, so create one if you do not already have one. If you do already have one, you will probably want to have some free storage space on your Google Drive space (you have ~15GB for “free”). If you do not have enough space for managing some new data to your Google Drive, you might consider making a new google account just for the purpose of using Colab.\nYou may wish to watch the following video:\nAnaconda explanation on Youtube\nYou can follow along with the video once you are signed into your Google account using your own Colab space"
   },
   {
-    "objectID": "schedule.html",
-    "href": "schedule.html",
-    "title": "Schedule",
-    "section": "",
-    "text": "The material in this module is designed to be experienced in an intensive one week format followed by an assessment meant to showcase reproducible statistical analysis skills. For enrolled students, the work will be supported with several live sessions during the main week of delivery.\n\nPreparation: If you have no Python programming experience or would like to strengthen your skills, you may find it useful to practice before the module week.\n\n(thorough) Official Python Tutorial\n(full course) Dr. Chuck on FreeCodeCamp\n\n\n\n\n\nDay\nTopics\nLabs\n\n\n\n\nMon\nam\npm\n 01 Introduction  1.1\n 02 Linear algebra  2.1\n 03 Probability  3.1\nLab 00 Preparation\n  01 Python labs 1:7\n  02 Pandas labs 1:6\n\n\nTues\nam\npm\n 04 Numerical computation  4.1  4.2\n 05 Machine learning  5.1\n 06 Deep networks  6.1  6.2\n Chollet 2021 Ch 3\n 03 Deep learning labs 1:6\n 04 Computer viz labs 1:6\n\n\nWed\nam\npm\n 07 Regularization  7.1\n 08 Stochastic gradient descent  8.1  8.2\nFinish previous or work through\n Chollet 2021 Ch 4-6\n\n\nThurs\nam\npm\n 09 Convolutional networks  9.1  9.2\n 10 Recurrent networks  10.1\nTensorflow example\n\n\nFri\nam\npm\n 11 Practical methods  11.1\n 12 Application  12.1  12.2\nYolo example"
-  },
-  {
-    "objectID": "schedule.html#harper-adams-data-science",
-    "href": "schedule.html#harper-adams-data-science",
-    "title": "Schedule",
-    "section": "Harper Adams Data Science",
-    "text": "Harper Adams Data Science\n\nThis module is a part of the MSc in Data Science for Global Agriculture, Food, and Environment at Harper Adams University, led by Ed Harris."
-  },
-  {
     "objectID": "ipy-notebooks/Chollet-chapter03_introduction-to-keras-and-tf.html",
     "href": "ipy-notebooks/Chollet-chapter03_introduction-to-keras-and-tf.html",
     "title": "R Stats Bootcamp",
@@ -243,5 +229,19 @@
     "title": "R Stats Bootcamp",
     "section": "Summary",
     "text": "Summary"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "The material in this module is designed to be experienced in an intensive one week format followed by an assessment meant to showcase reproducible statistical analysis skills. For enrolled students, the work will be supported with several live sessions during the main week of delivery.\n\nPreparation: If you have no Python programming experience or would like to strengthen your skills, you may find it useful to practice before the module week.\n\n(thorough) Official Python Tutorial\n(full course) Dr. Chuck on FreeCodeCamp\n\n\n\n\n\nDay\nTopics\nLabs\n\n\n\n\nMon\nam\npm\n 01 Introduction  1.1\n 02 Linear algebra  2.1\n 03 Probability  3.1\nLab 00 Preparation\n  01 Python labs 1:7\n  02 Pandas labs 1:6\n\n\nTues\nam\npm\n 04 Numerical computation  4.1  4.2\n 05 Machine learning  5.1\n 06 Deep networks  6.1  6.2\n Chollet 2021 Ch 3\n 03 Deep learning labs 1:6\n 04 Computer viz labs 1:6\n\n\nWed\nam\npm\n 07 Regularization  7.1\n 08 Stochastic gradient descent  8.1  8.2\nFinish previous or work through\n Chollet 2021 Ch 4-6\n\n\nThurs\nam\npm\n 09 Convolutional networks  9.1  9.2\n 10 Recurrent networks  10.1\nTensorflow example\n\n\nFri\nam\npm\n 11 Practical methods  11.1\n 12 Application  12.1  12.2\nYolo example"
+  },
+  {
+    "objectID": "schedule.html#harper-adams-data-science",
+    "href": "schedule.html#harper-adams-data-science",
+    "title": "Schedule",
+    "section": "Harper Adams Data Science",
+    "text": "Harper Adams Data Science\n\nThis module is a part of the MSc in Data Science for Global Agriculture, Food, and Environment at Harper Adams University, led by Ed Harris."
   }
 ]
