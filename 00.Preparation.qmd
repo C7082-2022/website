@@ -1,5 +1,5 @@
 ---
-title: "Preparation"
+title: "00 Preparation"
 ---
 
 <br>
@@ -92,15 +92,15 @@ D. Hit the install button
 
 ### 2.2 Use of Jupyter lab
 
-Using code embedded interactively with formatted text and images is very handy - like a webpage that allow you to enter and run computer code.  This is the basic way that is popular to write and execute  Python collaboratively.  The tools we will highlight are are based around documents called "notebooks".
+Using code embedded interactively with formatted text and images is very handy - like a webpage that allow you to enter and run computer code. This is the basic way that is popular to write and execute Python collaboratively. The tools we will highlight are are based around documents called "notebooks".
 
-- Jupyter Lab iPython notebooks (.ipynb files)
+-   Jupyter Lab iPython notebooks (.ipynb files)
 
-- Google Colab iPython notebooks (also .ipynb files))
+-   Google Colab iPython notebooks (also .ipynb files))
 
 <br>
 
-The basic idea is to edity code in "cells" and execute the code within a computing environment.  The use of this system is very simple and powerful, but may seem counterintuitive at first.  The following video may help illustrate the idea before we dive in and try Jupyter lab ourselves.
+The basic idea is to edity code in "cells" and execute the code within a computing environment. The use of this system is very simple and powerful, but may seem counterintuitive at first. The following video may help illustrate the idea before we dive in and try Jupyter lab ourselves.
 
 [Jupyter notebook video](https://www.youtube.com/watch?v=2WL-XTl2QYI)
 

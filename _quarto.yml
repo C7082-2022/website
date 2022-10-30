@@ -17,6 +17,8 @@ website:
       - section: "Labs"
         contents:
           - 00.Preparation.qmd
+          - 01.Anaconda.qmd
+          - 02.Colab.qmd
           
 format:
   html:
