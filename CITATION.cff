@@ -1,0 +1,35 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+title: "Techniques in Machine Learning and AI"
+abstract: "A self-paced course for learning R programming, statistical analysis, and reproducible research practices. Designed for beginners with modules covering R scripting, RStudio interface, data analysis fundamentals, and reproducible research workflows using R and GitHub."
+authors:
+- family-names: "Harris"
+  given-names: "W. E."
+  orcid: "https://orcid.org/0000-0002-9038-8656"
+title: "Techniques in Machine Learning and AI"
+version: 2022.1.0
+doi: 10.5281/zenodo.15668514
+date-released: 2022-08-01
+url: "https://c7082-2022.github.io/website/"
+license: MIT
+keywords:
+  - R programming
+  - python programming
+  - computer vision
+  - deep learning
+  - reproducible research
+  - educational materials
+  - self-paced learning
+preferred-citation:
+  type: misc
+  authors:
+  - family-names: "Harris"
+    given-names: "W. E."
+    orcid: "https://orcid.org/0000-0002-9038-8656"
+    affiliation: "Centre for Agricultural Data Science, Harper Adams University"
+  title: "Techniques in Machine Learning and AI: A self-paced course for deep learning and computer vision"
+  year: 2022  # Update to your publication year
+  url: "https://c7082-2022.github.io/website/"
+  doi: "10.5281/zenodo.15668514"
+  publisher: "Centre for Agricultural Data Science, Harper Adams University"
+  notes: "Open educational resource for deep learning and computer vision"
