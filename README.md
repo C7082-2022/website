@@ -1,5 +1,7 @@
 # C7082 Techniques in Machine Learning and AI - Course Website
 
+Harris, W. E. (2022). Techniques in Machine Learning and AI: A self-paced course for deep learning and computer vision. URL: [https://rstats-bootcamp.github.io/website/](https://github.com/C7082-2022/website) Github: [https://github.com/rstats-bootcamp/website](https://c7082-2022.github.io/website/) [![DOI](https://zenodo.org/badge/551814737.svg)](https://doi.org/10.5281/zenodo.15668514)
+
 This repository contains the course website for **C7082 Techniques in Machine Learning and AI** (2022) at Harper Adams University.
 
 ## About
